@@ -1,4 +1,4 @@
-#Matt Finney Test Repository for CS207 HW4
+# Matt Finney Test Repository for CS207 HW4
 
 [![Build Status](https://travis-ci.org/MattFinney/cs207test.svg?branch=master)](https://travis-ci.org/MattFinney/cs207test)
 
